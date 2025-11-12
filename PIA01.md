@@ -61,5 +61,5 @@ Para todos los apartados es necesario entregar los enlaces de acceso al reposito
 
 ### INCIDENCIAS CON LA TAREA
 
-Al darme cuenta de que he hecho mla las capturas, (no aparece la página con el nombre del usuario...), he intentado volver a tomarlas pero ya no me deja entrar de nuevo a LinkedIn.
+Al darme cuenta de que he hecho mal las capturas para LinkeIn, (no aparece la página con el nombre del usuario...), he intentado volver a tomarlas pero ya no me deja entrar de nuevo.
 ![LinkedIn presionando a los usuarios para que ingresen el número de teléfono](img/LinkedIn.png)
